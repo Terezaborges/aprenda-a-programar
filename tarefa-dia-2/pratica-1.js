@@ -9,5 +9,3 @@ console.log(email)
 console.log(profissao)
 console.log(idade)
 console.log(lugar)
-
-console.log("")
